@@ -1,4 +1,5 @@
-
+// Author: Prema Ramalingam
+// Date: 09/21/2023
 // Compound Interest Formula: A = P(1 + r/n)^(nt)
 
 // where:   A = Future Amount of Money
